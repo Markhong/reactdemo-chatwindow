@@ -1,0 +1,45 @@
+{
+  "name": "markdemo",
+  "version": "1.0.0",
+  "description": "This is my demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot --inline",
+    "build": "webpack --progress --colors --watch",
+    "watch": "webpack-dev-server --hot --progress --colors",
+    "dist": "NODE_ENV=production webpack --progress --colors"
+  },
+  "keywords": [
+    "Aa000000"
+  ],
+  "author": "mark",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer-loader": "^3.2.0",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-plugin-react-transform": "^2.0.2",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-react-hmre": "^1.1.1",
+    "css-loader": "^0.24.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.9.0",
+    "jshint": "^2.9.3",
+    "jshint-loader": "^0.8.3",
+    "jsx-loader": "^0.13.2",
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-hot-loader": "^3.0.0-beta.3",
+    "react-transform-catch-errors": "^1.0.2",
+    "react-transform-hmr": "^1.0.4",
+    "redbox-react": "^1.3.0",
+    "save-dev": "^2.0.0",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack-dev-server": "^1.15.1"
+  }
+}

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="../../build/style.css">
+	<style>
+		.chatwindow{
+			position: fixed;
+    right: 30px;
+    z-index: 1030;
+    bottom:30px;
+    width: 400px;
+			    height: 500px;
+		    overflow: hidden;
+		    background-color: #fff;
+		    border-bottom: #ccc;
+		}
+		.content-clone{
+			    position: absolute;
+		    bottom: 0;
+		    opacity: .9;
+		    filter: url("#comm100-svg-filter");
+		    -webkit-filter: blur(30px); /* Chrome, Opera */
+	        -moz-filter: blur(30px);
+	        -ms-filter: blur(30px);    
+	            filter: blur(30px);
+    		
+		}
+		.content{
+			position: relative;
+    		height: 70px;
+		}
+	</style>
+</head>
+<body>
+	<div class="chatwindow">
+		<div class="chatwindow01-container">
+			<div class="header clearfix">
+				<div class="header-btn-container">
+					<i class="icon-resources icon-resources-minimize"></i>
+					<i class="icon-resources icon-resources-close"></i>
+				</div>
+				<div class="title">Comm100 Team</div>
+				<img src="../../build/css/avatar.jpg" class="avatar" alt="" width="50" height="50">
+				
+				<div class="desc">
+					We make it simple and seamless for businesses and people to talk to each other. Ask us anything :)
+				</div>
+			</div>
+			<div class="messagecontainer">
+				<div class="chat-system-message">
+					Operator Mark has joined the chat.
+				</div>
+				<div class="chat-operator-message clearfix">
+					<div class="chat-operator-name">
+						Mark
+					</div>
+					<div class="chat-operator-content">
+						Hello, how may I help you?
+					</div>
+					<div class="chat-operator-time">
+						03:55 PM
+					</div>
+				</div>
+				<div class="chat-visitor-message clearfix">
+					<div class="chat-visitor-name">
+						Visitor
+					</div>
+					<div class="chat-visitor-content">
+						I have a question about your product.
+					</div>
+					<div class="chat-visitor-time">
+						03:55 PM
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="content-clone" style="transform: translate3d(0px, 0, 0px);">
+		</div>
+		<div class="chatwindow01-container chatwindow01-container-bottom">
+			<div class="messageinput">
+				<textarea id="chatinput"></textarea>
+				<div class="messagesend">
+					<i class="icon-resources icon-resources-send"></i>
+				</div>
+			</div>
+			<div class="footer">
+				<i class="icon-resources icon-resources-email"></i>
+				<i class="icon-resources icon-resources-sendfile"></i>
+				<i class="icon-resources icon-resources-rate"></i>
+				<i class="icon-resources icon-resources-voice"></i>
+				<i class="icon-resources icon-resources-rename"></i>
+				<i class="icon-resources icon-resources-print"></i>
+			</div>
+		</div>
+	</div>
+	<div class="content">
+		<div style="background:url(http://www.comm100.com/wp-content/uploads/images/bg-livechat.jpg) repeat;background-size:cover;height:1000px"></div>
+	</div>
+	
+	<script type="text/javascript" src="../../build/vendor-bundle.js"></script>
+	<script type="text/javascript" src="../../build/index.js"></script>
+</body>
+</html>

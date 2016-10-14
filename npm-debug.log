@@ -1,0 +1,252 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'D:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'D:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'react-addons-css-transition-group',
+1 verbose cli   '--save-dev' ]
+2 info using npm@2.15.0
+3 info using node@v4.4.2
+4 verbose install initial load of D:\Mark-file\training\webpack\demo3\mydemo\package.json
+5 warn package.json markdemo@1.0.0 No repository field.
+6 warn package.json markdemo@1.0.0 No README data
+7 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\autoprefixer-loader\package.json
+8 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\babel-core\package.json
+9 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\babel-loader\package.json
+10 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\babel-plugin-react-transform\package.json
+11 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\babel-preset-es2015\package.json
+12 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\babel-preset-react\package.json
+13 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\babel-preset-react-hmre\package.json
+14 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\css-loader\package.json
+15 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\extract-text-webpack-plugin\package.json
+16 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\file-loader\package.json
+17 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\jquery\package.json
+18 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\jshint\package.json
+19 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\jshint-loader\package.json
+20 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\jsx-loader\package.json
+21 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\less\package.json
+22 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\less-loader\package.json
+23 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react\package.json
+24 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group\package.json
+25 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-dom\package.json
+26 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-hot-loader\package.json
+27 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-transform-catch-errors\package.json
+28 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-transform-hmr\package.json
+29 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\redbox-react\package.json
+30 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\save-dev\package.json
+31 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\style-loader\package.json
+32 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\url-loader\package.json
+33 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\webpack\package.json
+34 verbose installManyTop reading scoped package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\webpack-dev-server\package.json
+35 info package.json less-loader@2.2.3 No license field.
+36 info package.json save-dev@2.0.0 No repository field.
+37 info package.json save-dev@2.0.0 No README data
+38 info package.json webpack-dev-server@1.15.1 No README data
+39 info package.json jshint-loader@0.8.3 No license field.
+40 info package.json jsx-loader@0.13.2 license should be a valid SPDX license expression
+41 verbose readDependencies loading dependencies from D:\Mark-file\training\webpack\demo3\mydemo\package.json
+42 verbose install react-addons-css-transition-group is installed as 15.3.2
+43 silly cache add args [ 'react-addons-css-transition-group', null ]
+44 verbose cache add spec react-addons-css-transition-group
+45 silly cache add parsed spec Result {
+45 silly cache add   raw: 'react-addons-css-transition-group',
+45 silly cache add   scope: null,
+45 silly cache add   name: 'react-addons-css-transition-group',
+45 silly cache add   rawSpec: '',
+45 silly cache add   spec: 'latest',
+45 silly cache add   type: 'tag' }
+46 silly addNamed react-addons-css-transition-group@latest
+47 verbose addNamed "latest" is being treated as a dist-tag for react-addons-css-transition-group
+48 info addNameTag [ 'react-addons-css-transition-group', 'latest' ]
+49 silly mapToRegistry name react-addons-css-transition-group
+50 silly mapToRegistry using default registry
+51 silly mapToRegistry registry https://registry.npmjs.org/
+52 silly mapToRegistry data Result {
+52 silly mapToRegistry   raw: 'react-addons-css-transition-group',
+52 silly mapToRegistry   scope: null,
+52 silly mapToRegistry   name: 'react-addons-css-transition-group',
+52 silly mapToRegistry   rawSpec: '',
+52 silly mapToRegistry   spec: 'latest',
+52 silly mapToRegistry   type: 'tag' }
+53 silly mapToRegistry uri https://registry.npmjs.org/react-addons-css-transition-group
+54 verbose addNameTag registry:https://registry.npmjs.org/react-addons-css-transition-group not in flight; fetching
+55 verbose request uri https://registry.npmjs.org/react-addons-css-transition-group
+56 verbose request no auth needed
+57 info attempt registry request try #1 at 14:20:33
+58 verbose request using bearer token for auth
+59 verbose request id f73bc6bc1ecf500e
+60 verbose etag "ERQ7QXDO1V0N7ENXBCJABPWGJ"
+61 http request GET https://registry.npmjs.org/react-addons-css-transition-group
+62 http 304 https://registry.npmjs.org/react-addons-css-transition-group
+63 verbose headers { 'cache-control': 'max-age=300',
+63 verbose headers   'accept-ranges': 'bytes',
+63 verbose headers   date: 'Wed, 28 Sep 2016 06:20:33 GMT',
+63 verbose headers   via: '1.1 varnish',
+63 verbose headers   connection: 'keep-alive',
+63 verbose headers   'x-served-by': 'cache-ams4425-AMS',
+63 verbose headers   'x-cache': 'MISS',
+63 verbose headers   'x-cache-hits': '0',
+63 verbose headers   'x-timer': 'S1475043632.997555,VS0,VE381',
+63 verbose headers   vary: 'Accept-Encoding' }
+64 silly get cb [ 304,
+64 silly get   { 'cache-control': 'max-age=300',
+64 silly get     'accept-ranges': 'bytes',
+64 silly get     date: 'Wed, 28 Sep 2016 06:20:33 GMT',
+64 silly get     via: '1.1 varnish',
+64 silly get     connection: 'keep-alive',
+64 silly get     'x-served-by': 'cache-ams4425-AMS',
+64 silly get     'x-cache': 'MISS',
+64 silly get     'x-cache-hits': '0',
+64 silly get     'x-timer': 'S1475043632.997555,VS0,VE381',
+64 silly get     vary: 'Accept-Encoding' } ]
+65 verbose etag https://registry.npmjs.org/react-addons-css-transition-group from cache
+66 verbose get saving react-addons-css-transition-group to C:\Users\mark\AppData\Roaming\npm-cache\registry.npmjs.org\react-addons-css-transition-group\.cache.json
+67 verbose correctMkdir C:\Users\mark\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+68 silly addNameTag next cb for react-addons-css-transition-group with tag latest
+69 silly addNamed react-addons-css-transition-group@15.3.2
+70 verbose addNamed "15.3.2" is a plain semver version for react-addons-css-transition-group
+71 silly cache afterAdd react-addons-css-transition-group@15.3.2
+72 verbose afterAdd C:\Users\mark\AppData\Roaming\npm-cache\react-addons-css-transition-group\15.3.2\package\package.json not in flight; writing
+73 verbose correctMkdir C:\Users\mark\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+74 verbose afterAdd C:\Users\mark\AppData\Roaming\npm-cache\react-addons-css-transition-group\15.3.2\package\package.json written
+75 silly install resolved [ { name: 'react-addons-css-transition-group',
+75 silly install resolved     version: '15.3.2',
+75 silly install resolved     main: 'index.js',
+75 silly install resolved     repository:
+75 silly install resolved      { type: 'git',
+75 silly install resolved        url: 'git+https://github.com/facebook/react.git' },
+75 silly install resolved     keywords: [ 'react', 'react-addon' ],
+75 silly install resolved     license: 'BSD-3-Clause',
+75 silly install resolved     dependencies: {},
+75 silly install resolved     peerDependencies: { react: '^15.3.2' },
+75 silly install resolved     files: [ 'LICENSE', 'PATENTS', 'README.md', 'index.js' ],
+75 silly install resolved     description: 'This package provides the React CSSTransitionGroup add-on.',
+75 silly install resolved     bugs: { url: 'https://github.com/facebook/react/issues' },
+75 silly install resolved     homepage: 'https://github.com/facebook/react#readme',
+75 silly install resolved     _id: 'react-addons-css-transition-group@15.3.2',
+75 silly install resolved     _shasum: 'd8fa52bec9bb61bdfde8b9e4652b80297cbff667',
+75 silly install resolved     _resolved: 'https://registry.npmjs.org/react-addons-css-transition-group/-/react-addons-css-transition-group-15.3.2.tgz',
+75 silly install resolved     _from: 'react-addons-css-transition-group@latest',
+75 silly install resolved     scripts: {},
+75 silly install resolved     _npmVersion: '3.10.3',
+75 silly install resolved     _nodeVersion: '6.5.0',
+75 silly install resolved     _npmUser: { name: 'zpao', email: 'paul@oshannessy.com' },
+75 silly install resolved     maintainers: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+75 silly install resolved     dist:
+75 silly install resolved      { shasum: 'd8fa52bec9bb61bdfde8b9e4652b80297cbff667',
+75 silly install resolved        tarball: 'https://registry.npmjs.org/react-addons-css-transition-group/-/react-addons-css-transition-group-15.3.2.tgz' },
+75 silly install resolved     _npmOperationalInternal:
+75 silly install resolved      { host: 'packages-12-west.internal.npmjs.com',
+75 silly install resolved        tmp: 'tmp/react-addons-css-transition-group-15.3.2.tgz_1474307192205_0.6588692599907517' },
+75 silly install resolved     directories: {},
+75 silly install resolved     readme: 'ERROR: No README data found!' } ]
+76 info install react-addons-css-transition-group@15.3.2 into D:\Mark-file\training\webpack\demo3\mydemo
+77 info installOne react-addons-css-transition-group@15.3.2
+78 verbose installOne of react-addons-css-transition-group to D:\Mark-file\training\webpack\demo3\mydemo not in flight; installing
+79 verbose correctMkdir C:\Users\mark\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+80 verbose lock using C:\Users\mark\AppData\Roaming\npm-cache\_locks\react-addons-css-transit-2e954bfe9ba1e461.lock for D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group
+81 silly install write writing react-addons-css-transition-group 15.3.2 to D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group
+82 verbose unbuild node_modules\react-addons-css-transition-group
+83 info preuninstall react-addons-css-transition-group@15.3.2
+84 info uninstall react-addons-css-transition-group@15.3.2
+85 verbose unbuild rmStuff react-addons-css-transition-group@15.3.2 from D:\Mark-file\training\webpack\demo3\mydemo\node_modules
+86 info postuninstall react-addons-css-transition-group@15.3.2
+87 silly gentlyRm D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group is being purged from base D:\Mark-file\training\webpack\demo3\mydemo
+88 verbose gentlyRm don't care about contents; nuking D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group
+89 silly vacuum-fs purging D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group
+90 silly vacuum-fs quitting because other entries in D:\Mark-file\training\webpack\demo3\mydemo\node_modules
+91 verbose tar unpack C:\Users\mark\AppData\Roaming\npm-cache\react-addons-css-transition-group\15.3.2\package.tgz
+92 verbose tar unpacking to D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group
+93 silly gentlyRm D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group is being purged
+94 verbose gentlyRm don't care about contents; nuking D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group
+95 silly gunzTarPerm modes [ '777', '666' ]
+96 silly gunzTarPerm extractEntry package.json
+97 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+98 silly gunzTarPerm extractEntry README.md
+99 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+100 silly gunzTarPerm extractEntry LICENSE
+101 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+102 silly gunzTarPerm extractEntry index.js
+103 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+104 silly gunzTarPerm extractEntry PATENTS
+105 silly gunzTarPerm modified mode [ 'PATENTS', 420, 438 ]
+106 verbose write writing to D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group\package.json
+107 info preinstall react-addons-css-transition-group@15.3.2
+108 verbose readDependencies loading dependencies from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group\package.json
+109 silly prepareForInstallMany adding react@^15.3.2 from react-addons-css-transition-group peerDependencies
+110 warn peerDependencies The peer dependency react@^15.3.2 included from react-addons-css-transition-group will no
+111 warn peerDependencies longer be automatically installed to fulfill the peerDependency
+112 warn peerDependencies in npm 3+. Your application will need to depend on it explicitly.
+113 verbose readDependencies loading dependencies from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group\package.json
+114 silly install resolved []
+115 verbose about to build D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group
+116 info build D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group
+117 info linkStuff react-addons-css-transition-group@15.3.2
+118 silly linkStuff react-addons-css-transition-group@15.3.2 has D:\Mark-file\training\webpack\demo3\mydemo\node_modules as its parent node_modules
+119 verbose linkBins react-addons-css-transition-group@15.3.2
+120 verbose linkMans react-addons-css-transition-group@15.3.2
+121 verbose rebuildBundles react-addons-css-transition-group@15.3.2
+122 info install react-addons-css-transition-group@15.3.2
+123 info postinstall react-addons-css-transition-group@15.3.2
+124 verbose readDependencies loading dependencies from D:\Mark-file\training\webpack\demo3\mydemo\package.json
+125 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\autoprefixer-loader\package.json
+126 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\babel-core\package.json
+127 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\babel-loader\package.json
+128 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\babel-plugin-react-transform\package.json
+129 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\babel-preset-es2015\package.json
+130 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\babel-preset-react\package.json
+131 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\babel-preset-react-hmre\package.json
+132 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\css-loader\package.json
+133 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\extract-text-webpack-plugin\package.json
+134 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\file-loader\package.json
+135 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\jquery\package.json
+136 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\jshint\package.json
+137 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\jshint-loader\package.json
+138 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\jsx-loader\package.json
+139 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\less\package.json
+140 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\less-loader\package.json
+141 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react\package.json
+142 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group\package.json
+143 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-dom\package.json
+144 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-hot-loader\package.json
+145 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-transform-catch-errors\package.json
+146 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-transform-hmr\package.json
+147 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\redbox-react\package.json
+148 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\save-dev\package.json
+149 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\style-loader\package.json
+150 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\url-loader\package.json
+151 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\webpack\package.json
+152 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\webpack-dev-server\package.json
+153 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\.bin\jshint\package.json
+154 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\.bin\jshint.cmd\package.json
+155 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\.bin\lessc\package.json
+156 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\.bin\lessc.cmd\package.json
+157 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\.bin\webpack\package.json
+158 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\.bin\webpack-dev-server\package.json
+159 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\.bin\webpack-dev-server.cmd\package.json
+160 verbose targetResolver reading package data from D:\Mark-file\training\webpack\demo3\mydemo\node_modules\.bin\webpack.cmd\package.json
+161 verbose already installed skipping react@^15.3.2 D:\Mark-file\training\webpack\demo3\mydemo
+162 silly install resolved []
+163 verbose unlock done using C:\Users\mark\AppData\Roaming\npm-cache\_locks\react-addons-css-transit-2e954bfe9ba1e461.lock for D:\Mark-file\training\webpack\demo3\mydemo\node_modules\react-addons-css-transition-group
+164 verbose validateInstall loading D:\Mark-file\training\webpack\demo3\mydemo\package.json for validation
+165 verbose stack Error: The package react@15.3.1 does not satisfy its siblings' peerDependencies requirements!
+165 verbose stack     at D:\Program Files\nodejs\node_modules\npm\lib\install.js:125:32
+165 verbose stack     at D:\Program Files\nodejs\node_modules\npm\lib\install.js:268:7
+165 verbose stack     at D:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:142:5
+165 verbose stack     at D:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+165 verbose stack     at cb (D:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+165 verbose stack     at D:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+165 verbose stack     at cb (D:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+165 verbose stack     at D:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+165 verbose stack     at cb (D:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+165 verbose stack     at D:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+166 verbose cwd D:\Mark-file\training\webpack\demo3\mydemo
+167 error Windows_NT 10.0.10586
+168 error argv "D:\\Program Files\\nodejs\\node.exe" "D:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "react-addons-css-transition-group" "--save-dev"
+169 error node v4.4.2
+170 error npm  v2.15.0
+171 error code EPEERINVALID
+172 error peerinvalid The package react@15.3.1 does not satisfy its siblings' peerDependencies requirements!
+172 error peerinvalid Peer react-addons-css-transition-group@15.3.2 wants react@^15.3.2
+172 error peerinvalid Peer react-dom@15.3.1 wants react@^15.3.1
+172 error peerinvalid Peer redbox-react@1.3.0 wants react@^0.14.0 || ^15.0.0
+173 verbose exit [ 1, true ]
